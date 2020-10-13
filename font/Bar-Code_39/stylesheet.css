@@ -1,0 +1,10 @@
+﻿/* @font-face kit by Fonts2u (https://fonts2u.com) */
+ @font-face {
+ font-family:"Bar-Code";
+ src:url("Code39.eot?") format("eot"),
+ url("Code39.woff") format("woff"),
+ url("Code39.ttf") format("truetype"),
+ url("Code39.svg#") format("svg");
+}
+
+
